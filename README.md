@@ -1,5 +1,5 @@
 # Crystal Sharp - Read Model Store with Microsoft SQL Server Example
-Crystal Sharp framework - Read Model Store integration code example with Microsoft SQL Server.
+Crystal Sharp framework - `Read Model Store` integration code example with `Microsoft SQL Server`.
 
 
 ### About This Example
@@ -16,4 +16,4 @@ This example uses `EventStoreDB` for storing events and `Microsoft SQL Server` f
 
 * Change the event store connectionstring in `appsettings.json` file.
 * Change the read model store connectionstring in `appsettings.json` file and then run the `Migrations`.
-* Run the WebAPI project.
+* Run the `WebAPI` project.
